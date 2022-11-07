@@ -1,6 +1,5 @@
-# OJT-IT-DEV
 
-# OJT-IT-DEV Devin Luize Saan
+# OJT-IT-DEV Devin Luize Saan - 2540127181
 
 This My IT Development On Job Training for BSLC(Binus Student Learning Community)
 
